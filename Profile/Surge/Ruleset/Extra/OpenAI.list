@@ -1,0 +1,3 @@
+DOMAIN,openaiapi-site.azureedge.net, Proxy
+DOMAIN,chat.openai.com.cdn.cloudflare.net, Proxy
+DOMAIN-SUFFIX,openai.com, Proxy
